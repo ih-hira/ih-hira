@@ -1,6 +1,6 @@
-### Hi, I'm Imtiyaz Hossain 👋
+## Hi, I'm Imtiyaz Hossain 👋
 
-## I'm a Software Engineer, have 1.3+ years experience on Backend Development.
+### I'm a Software Engineer, have 1.3+ years experience on Backend Development.
 
 - 🔭 I’m currently working on [.Net](https://dotnet.microsoft.com/)
 - 🌱 I’m currently learning [.Net Core](https://dotnet.microsoft.com/)
