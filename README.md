@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi, I'm Imtiyaz Hossain 👋
 
-<!--
-**ih-hira/ih-hira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm a Software Engineer, have 1.3+ years experience on Backend Development.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [.Net](https://dotnet.microsoft.com/)
+- 🌱 I’m currently learning .Net Core 
+- 👯 I’m looking to collaborate on Frontend Development
+- 🤔 I’m looking for help with Microservice
+- 💬 Ask me about .Net or any tech related stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[linkedin]: https://linkedin.com/in/ihhira
