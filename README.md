@@ -13,6 +13,7 @@
 
 [<img align="left" alt="ihhira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ih_hira | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
+[<img align="left" alt="imtiyaz | Blogpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogpost]
 
 <br/>
 
@@ -30,13 +31,11 @@
 <br/>
 
 ### Frameworks:
-<img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
-<br/>
-<br/>
-
+<img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />  
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
 
 [linkedin]: https://linkedin.com/in/ihhira
 [medium]: https://medium.com/@ih_hira
+[blogpost]: https://codeboxbd.blogspot.com
 
