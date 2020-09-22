@@ -37,7 +37,7 @@
 <br/>
 
 ### Profile Summary:
-![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
+[ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
 
 [linkedin]: https://linkedin.com/in/ihhira
