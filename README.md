@@ -14,7 +14,8 @@
 [<img align="left" alt="ih_hira | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="imtiyaz | Blogpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogpost]
 
-<br/>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Languages and Tools
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -27,10 +28,12 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
 <p>&nbsp;</p>
+<p>&nbsp;</p>
 
 ### Frameworks
 <img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 ### Github Stats
