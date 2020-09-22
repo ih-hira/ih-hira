@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer, have 1.3+ years experience on Backend Development. Currently...
 - 💼 Working as Software Engineer at [LEADS](https://www.leads.com.bd/)
-- 🔭 Working on [.Net](https://dotnet.microsoft.com/)
+- 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
 - 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 - 👯 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with Microservice
@@ -31,7 +31,8 @@
 ### Frameworks:
 <img align="left" alt="CPP" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 <br/>
-
+<br/>
+<br/>
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
 
