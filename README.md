@@ -15,7 +15,6 @@
 [<img align="left" alt="ih_hira | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="imtiyaz | Blogpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogpost]
 
-<br/>
 
 ### Languages and Tools:
 <img align="left" alt="CPP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
@@ -29,15 +28,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 
-<br/>
+
 
 ### Frameworks:
 <img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 
-<br/>
+
 
 ### Profile Summary:
-[ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
+![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
 
 [linkedin]: https://linkedin.com/in/ihhira
