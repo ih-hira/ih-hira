@@ -32,6 +32,9 @@
 <img align="left" alt="CPP" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 
 
+![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
+
+
 [linkedin]: https://linkedin.com/in/ihhira
 
 
