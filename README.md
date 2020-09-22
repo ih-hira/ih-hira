@@ -29,7 +29,7 @@
 <br/>
 
 ### Frameworks:
-<img align="left" alt="CPP" width="26px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
+<img align="left" alt="CPP" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
 
 
 [linkedin]: https://linkedin.com/in/ihhira
