@@ -1,9 +1,9 @@
 ## Hi, I'm Imtiyaz Hossain 👋
 
-### I'm a Software Engineer, have 1.3+ years experience on Backend Development.
-
-- 🔭 I’m currently working on [.Net](https://dotnet.microsoft.com/)
-- 🌱 I’m currently learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
+### I'm a Software Engineer, have 1.3+ years experience on Backend Development. Currently...
+- 💼 Working as Software Engineer at [LEADS](https://www.leads.com.bd/)
+- 🔭 Working on [.Net](https://dotnet.microsoft.com/)
+- 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 - 👯 I’m looking to collaborate on Frontend Development
 - 🤔 I’m looking for help with Microservice
 - 💬 Ask me about .Net or any tech related stuff
@@ -27,10 +27,9 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <br/>
-<br/>
+
 ### Frameworks:
 <img align="left" alt="CPP" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
-<br/>
 <br/>
 
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
