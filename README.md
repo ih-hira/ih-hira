@@ -1,7 +1,7 @@
 ## Hi, I'm Imtiyaz Hossain 👋
 
 ### I'm a Software Engineer, have 1.3+ years experience on Backend Development. Currently...
-- 💼 Working as Software Engineer at [LEADS](https://www.leads.com.bd/)
+- 💼 Working as Software Engineer at [Insightin Technology Bangladesh Ltd.](http://insightintechnology.com/)
 - 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
 - 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
 - 👯 I’m looking to collaborate on Frontend Development
