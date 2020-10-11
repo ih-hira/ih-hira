@@ -38,6 +38,15 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+### DBMS
+<img align="left" alt="oracle" height="50" src="https://devicon.dev/devicon.git/icons/oracle/oracle-original.svg" />
+<img align="left" alt="microsoft-sql-server" height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />
+<img align="left" alt="mysql" height="50" src="https://devicon.dev/devicon.git/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="mongodb" height="50" src="https://devicon.dev/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" />
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ### Github Stats
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
