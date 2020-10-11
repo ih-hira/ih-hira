@@ -34,6 +34,9 @@
 
 ### Frameworks
 <img align="left" alt="dotnet" height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" />
+<img align="left" alt="flask" height="50" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
+<img align="left" alt="angulajs" height="50" src="https://devicon.dev/devicon.git/icons/angularjs/angularjs-original.svg" />
+<img align="left" alt="spring" height="50" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg" />
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
