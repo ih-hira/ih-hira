@@ -51,7 +51,9 @@
 <p>&nbsp;</p>
 
 ### Architectural Pattern
-Layered pattern, Model-View-Controller(MVC) pattern, Model-View-ViewModel(MVVM) pattern
+-Layered pattern
+-Model-View-Controller(MVC) pattern
+-Model-View-ViewModel(MVVM) pattern
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
