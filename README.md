@@ -50,6 +50,12 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
+### Architectural Pattern
+Layered pattern, Model-View-Controller pattern, Model-View-ViewModel pattern
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
 ### Github Stats
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
 
