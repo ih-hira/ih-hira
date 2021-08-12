@@ -43,7 +43,7 @@
 
 ### DBMS
 <img align="left" alt="oracle" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
-<img align="left" alt="microsoft-sql-server" height="50" src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server.svg" />
+<img align="left" alt="microsoft-sql-server" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="mysql" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="mongodb" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 
