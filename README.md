@@ -13,6 +13,7 @@
 [<img align="left" alt="ihhira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ih_hira | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="imtiyaz | Blogpost" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blogger.svg" />][blogpost]
+[<img align="left" alt="imtiyaz | TryHackMe" width="22px" src="https://tryhackme.com/badge/588303" />][tryhackme]
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
