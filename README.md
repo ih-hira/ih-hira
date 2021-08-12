@@ -54,6 +54,7 @@
 - Layered pattern
 - Model-View-Controller(MVC) pattern
 - Model-View-ViewModel(MVVM) pattern
+- Clean Architecture (Onion)
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
