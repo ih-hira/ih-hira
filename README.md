@@ -1,6 +1,6 @@
 ## Hi, I'm Imtiyaz Hossain 👋
 
-### I'm a Software Engineer, have 1.3+ years experience on Backend Development. Currently...
+### I'm a Software Engineer, have 2.1+ years experience on Backend Development. Currently...
 - 💼 Working as Software Engineer at [Insightin Technology Bangladesh Ltd.](http://insightintechnology.com/)
 - 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
 - 🌱 Learning [.Net Core](https://docs.microsoft.com/en-us/dotnet/core/introduction)
@@ -60,8 +60,6 @@
 
 ### Github Stats
 ![ih-hira's github stats](https://github-readme-stats.vercel.app/api?username=ih-hira&show_icons=true&line_height=30)
-
-![ihhira's TryHackMe stats](https://tryhackme.com/badge/588303)
 
 [linkedin]: https://linkedin.com/in/ihhira
 [medium]: https://medium.com/@ih_hira
