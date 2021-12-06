@@ -64,5 +64,4 @@
 
 [linkedin]: https://linkedin.com/in/ihhira
 [medium]: https://medium.com/@ih_hira
-[blogpost]: https://codeboxbd.blogspot.com
 
