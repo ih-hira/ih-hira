@@ -3,9 +3,9 @@
 ### I'm a Software Engineer, have 2.1+ years experience on Backend Development. Currently...
 - 💼 Working as Software Engineer at [Insightin Technology Bangladesh Ltd.](http://insightintechnology.com/)
 - 👨🏻‍💻 Working on [.Net](https://dotnet.microsoft.com/)
-- 🌱 Learning Ethical Hacking
+- 🌱 Learning Ethical Hacking, System Design
 - 👯 I’m looking to collaborate on System Design
-- 🤔 I’m looking for help with Ethical Hacking
+- 🤔 I’m looking for help with System Design
 - 💬 Ask me about .Net or any tech related stuff
 
 
