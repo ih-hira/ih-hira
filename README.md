@@ -1,7 +1,7 @@
 ## Hi, I'm Imtiyaz Hossain 👋
 
 ## 🚀 About Me
-I'm a **Senior Software Engineer** with **4+ years of experience in backend development**, specializing in building scalable, secure, and maintainable systems using **.NET**.  
+I'm a **Software Engineer** with **6+ years of experience in backend development**, specializing in building scalable, secure, and maintainable systems using **.NET**.  
 I’m passionate about solving engineering challenges, designing robust architectures, and currently expanding my skillset in **Cybersecurity** and **System Design** to strengthen my engineering journey.
 
 ## 💼 Current Role
@@ -27,19 +27,19 @@ I’m passionate about solving engineering challenges, designing robust architec
   <!-- Architecture -->
   <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge&logo=microgenetics&logoColor=white" />
   </p>
+- 💻 **Frontend Development:**
+  <p>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  </p>
 - 🌱 **Currently Learning:** Ethical Hacking, System Design  
 - 👯 **Open to Collaborations:** System design discussions, backend architecture  
 - 🤔 **Seeking Guidance On:** Advanced system design & cybersecurity practices  
 - 💬 **Ask Me About:** .NET, backend architecture, clean code, and general tech topics  
-
-
-
-## 🌐 Social Networks  
-[<img align="left" alt="ihhira | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ih_hira | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-
-<br/><br/>
-
 
 
 ## 🧩 Skills & Technologies
@@ -59,6 +59,7 @@ I’m passionate about solving engineering challenges, designing robust architec
       <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     </td>
@@ -66,7 +67,7 @@ I’m passionate about solving engineering challenges, designing robust architec
 
   <!-- TOOLS -->
   <tr>
-    <td><strong>Tools</strong></td>
+    <td><strong>Development Tools</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -74,7 +75,25 @@ I’m passionate about solving engineering challenges, designing robust architec
       <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
     </td>
   </tr>
-
+  <tr>
+    <td><strong>Frontend Tools</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" />
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+      <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
+    </td>
+  </tr>
+  <!--Cloud technologies-->
+  <tr>
+    <td><strong>Cloud Technologies</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20Functions-0062AD?style=for-the-badge&logo=azurefunctions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Azure%20App%20Service-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
+    </td>
+  </tr>
   <!-- FRAMEWORKS -->
   <tr>
     <td><strong>Frameworks</strong></td>
@@ -102,3 +121,7 @@ I’m passionate about solving engineering challenges, designing robust architec
     </td>
   </tr>
 </table>
+
+## 🌐 Social Networks  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ihhira)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ih_hira)
